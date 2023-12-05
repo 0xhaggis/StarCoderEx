@@ -1,6 +1,6 @@
 # StarCoderEx
 
-StarCoderExtension for AI Code generation
+StarCoderExtension for AI Code generation. Forked to handle locally served instance of StarCoder. More details to come.
 
 
 Original AI: https://huggingface.co/bigcode/starcoder
